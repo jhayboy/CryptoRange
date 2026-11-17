@@ -496,7 +496,7 @@ export default function Home() {
                 className="w-full bg-[#062c2a] border border-white/15 rounded-lg px-4 py-4 outline-none focus:border-[#e9bd59] resize-none"
               />
             </div>
-
+            {/* 
             <div className="flex items-start gap-3">
               <input
                 type="checkbox"
@@ -512,7 +512,7 @@ export default function Home() {
                 substantial risk, including possible loss of capital,
                 and that projected returns are not guaranteed.
               </label>
-            </div>
+            </div> */}
 
             {status && (
               <p
